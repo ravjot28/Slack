@@ -176,6 +176,7 @@ body.loading .modal {
 							class="icon-bar"></span> <span class="icon-bar"></span> <span
 							class="icon-bar"></span>
 					</button>
+					<a class="navbar-brand" href="#">Slack</a>
 				</div>
 				</nav>
 			</div>
